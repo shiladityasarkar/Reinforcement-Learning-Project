@@ -1,4 +1,4 @@
-__file__ = 'C:/Users/Inito/Downloads/Warehouse-Automation-master/Warehouse-Automation-master/'
+__file__ = environ.file_path
 
 from contextlib import closing
 from io import StringIO
